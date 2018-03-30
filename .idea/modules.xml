@@ -5,6 +5,9 @@
 <<<<<<< HEAD
 =======
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+<<<<<<< HEAD
+>>>>>>> parent of 534041f... Added Number Picker  string
+=======
 >>>>>>> parent of 534041f... Added Number Picker  string
       <module fileurl="file://$PROJECT_DIR$/medifact.iml" filepath="$PROJECT_DIR$/medifact.iml" />
     </modules>
